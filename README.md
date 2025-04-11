@@ -33,7 +33,7 @@ Quer participar? Ótimo! Estamos construindo isso em comunidade, e você pode co
 - Criando exercícios ou corrigindo materiais
 - Compartilhando ideias e sugestões
 
-Consulte nosso repositório [`devscroll-docs`](https://github.com/devscroll/devscroll-docs) para saber mais sobre o guia de contribuição, código de conduta e padrões da organização.
+Consulte nosso repositório [`devscroll-docs`](https://github.com/devscroll/devscroll-contributions) para saber mais sobre o guia de contribuição, código de conduta e padrões da organização.
 
 ---
 
